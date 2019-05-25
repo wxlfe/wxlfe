@@ -35,16 +35,6 @@ const Layout = ({ children }) => (
           }}
         >
           <main>{children}</main>
-          <footer>
-            <div style={{ display: 'flex', justifyContent: 'center', }}>
-              <h2>@wxlfe.dev</h2>
-            </div>
-            <div style={{ display: 'flex', flexDirection: 'column', textAlign: 'center', }}>
-              <a href='#' style={{ textDecoration: 'none', color: 'white', margin: '.5em' }}>github</a>
-              <a href='#' style={{ textDecoration: 'none', color: 'white', margin: '.5em' }}>linkedin</a>
-              <a href='#' style={{ textDecoration: 'none', color: 'white', margin: '.5em' }}>email</a>
-            </div>
-          </footer>
         </div>
       </>
     )}
