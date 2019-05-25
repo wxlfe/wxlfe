@@ -10,9 +10,21 @@ const AboutPage = () => (
     <h1 style={{ textAlign: 'center' }}>Nate Wolfe</h1>
     <div style={{
         display: 'flex',
-        flexDirection: 'row',
+        flexDirection: 'column',
         justifyContent: 'space-evenly',
     }}>
+        <div style={{
+            display: 'flex',
+            flexDirection: 'row',
+            justifyContent: 'space-evenly',
+        }}>
+            <h2>Skills:</h2>
+            <p>JavaScript</p>
+            <p>Java</p>
+            <p>Linux</p>
+            <p>React JS</p>
+            <p>Python</p>
+        </div>
         <div>
             <h2>Education</h2>
             <h3 style={{ marginBottom: '0' }}>Kennesaw State University</h3>
@@ -30,14 +42,6 @@ const AboutPage = () => (
             <p>
                 I left Heritage High School with a 3.68 GPA after making straight A's through the entire programming class pathway. At the end of the pathway, I was one of four students who passed the final test and got Microsoft's MTA Certificate in Web App Fundamentals. 
             </p>
-        </div>
-        <div>
-            <h2>Skills</h2>
-            <p>JavaScript</p>
-            <p>Java</p>
-            <p>Linux</p>
-            <p>React JS</p>
-            <p>Python</p>
         </div>
     </div>
     <div style={{
