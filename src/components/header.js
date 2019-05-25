@@ -40,7 +40,7 @@ const Header = () => (
             margin: '1em',
           }}>about</Link>
         <Link
-          to="/"
+          to="/projects"
           style={{
             color: `white`,
             textDecoration: `none`,
