@@ -17,13 +17,14 @@ const AboutPage = () => (
             display: 'flex',
             flexDirection: 'row',
             justifyContent: 'space-evenly',
+            flexWrap: 'wrap',
         }}>
-            <h2>Skills:</h2>
-            <p>JavaScript</p>
-            <p>Java</p>
-            <p>Linux</p>
-            <p>React JS</p>
-            <p>Python</p>
+            <h2 style={{ marginLeft: '1em', }}>Skills:</h2>
+            <p style={{ marginLeft: '1em', }}>JavaScript</p>
+            <p style={{ marginLeft: '1em', }}>Java</p>
+            <p style={{ marginLeft: '1em', }}>Linux</p>
+            <p style={{ marginLeft: '1em', }}>React JS</p>
+            <p style={{ marginLeft: '1em', }}>Python</p>
         </div>
         <div>
             <h2>Education</h2>
