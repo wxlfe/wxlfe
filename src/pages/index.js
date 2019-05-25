@@ -13,9 +13,9 @@ const IndexPage = () => (
         <h1 style={{ fontSize: '20vw', fontWeight: '200', }}>wxlfe</h1>
       </div>
       <div style={{ display: 'flex', flexDirection:'column', justifyContent: 'center', }}>
-          <a href='#' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>github</a>
-          <a href='#' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>linkedin</a>
-          <a href='#' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>email</a>
+          <a href='https://github.com/wxlfe' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>github</a>
+          <a href='https://linkedin.com/in/wxlfe' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>linkedin</a>
+          <a href='mailto:wxlfe@protonmail.com' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>email</a>
       </div>
     </div>
   </Layout>
