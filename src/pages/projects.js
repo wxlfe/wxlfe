@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -43,7 +42,7 @@ const ProjectsPage = () => (
     }}>
         <div>
             <div style={{ textAlign: 'center' }}>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/8okNNvdRwgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe title="Project: Way Back YouTube Video" width="80%" height="315" src="https://www.youtube.com/embed/8okNNvdRwgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <h2 style={{ marginBottom: '0' }}>Project: Way Back</h2>
             <h4 style={{ marginBottom: '0' }}>Kennesaw State, Global Game Jam 2019</h4>
