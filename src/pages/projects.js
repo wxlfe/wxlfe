@@ -13,34 +13,6 @@ const ProjectsPage = () => (
         justifyContent: 'space-evenly',
     }}>
         <div>
-            <h2 style={{ marginBottom: '0' }}>My Mohawk Benefits</h2>
-            <h4 style={{ marginBottom: '0' }}>Current Project</h4>
-            <p>
-                At work, I'm currently rebuilding the static site for the Benefits department in Gatsby, as a progressive web app to provide offline support. I'm using Bootstrap for styling. Take a look at the current development build at <a href="https://mymohawkbenefits.netlify.com/" style={{ color: 'white', textDecoration: 'none' }}>MyMohawkBenefits.netlify.com</a>.
-            </p>
-        </div>
-    </div>
-    <hr style={{ color: 'white', height: '1px' }}></hr>
-    <div style={{
-        display: 'flex',
-        flexDirection: 'row',
-        justifyContent: 'space-evenly',
-    }}>
-        <div>
-            <h2 style={{ marginBottom: '0' }}>Hayley Phillips Photography</h2>
-            <h4 style={{ marginBottom: '0' }}>Current Project</h4>
-            <p>
-                I'm currently building a website for a photographer using GatsbyJS (based on React) to cache large files like images locally, for top-notch performance and image quality. Check out the work in progress at <a href="https://HayleyPhillipsPhotography.netlify.com" style={{ color: 'white', textDecoration: 'none' }}>HayleyPhillipsPhotography.netlify.com</a>.
-            </p>
-        </div>
-    </div>
-    <hr style={{ color: 'white', height: '1px' }}></hr>
-    <div style={{
-        display: 'flex',
-        flexDirection: 'row',
-        justifyContent: 'space-evenly',
-    }}>
-        <div>
             <div style={{ textAlign: 'center' }}>
                 <iframe title="Project: Way Back YouTube Video" width="80%" height="315" src="https://www.youtube.com/embed/8okNNvdRwgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>

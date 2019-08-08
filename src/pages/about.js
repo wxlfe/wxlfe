@@ -33,25 +33,6 @@ const AboutPage = () => (
             <p style={{ marginRight: '1em', }}>React JS</p>
             <p style={{ marginRight: '1em', }}>Python</p>
         </div>
-        <div>
-            <h2>Education</h2>
-            <h3 style={{ marginBottom: '0' }}>Kennesaw State University</h3>
-            <h4 style={{ marginBottom: '0' }}>2019 - Present</h4>
-            <p>
-                I'll be transferring to Kennesaw State this fall semester to finish a Bachelor's program in Computer Science. I've already participated in Game Jam at Kennesaw (See "Project Way Back" on the projects page).
-            </p>
-            <h3 style={{ marginBottom: '0' }}>Dalton State College</h3>
-            <h4 style={{ marginBottom: '0' }}>2017 - 2019</h4>
-            <p>
-                I went to Dalton State for the first two years of college, taking my core classes as well as Programming I, Programming II, and Data Structures. 
-            </p>
-            <h3 style={{ marginBottom: '0' }}>Heritage High School</h3>
-            <h4 style={{ marginBottom: '0' }}>2013 - 2017</h4>
-            <p>
-                I left Heritage High School with a 3.68 GPA after making straight A's through the entire programming class pathway. At the end of the pathway, I was one of four students who passed the final test and got Microsoft's MTA Certificate in Web App Fundamentals. 
-            </p>
-        </div>
-    </div>
     <div style={{
         display: 'flex',
         flexDirection: 'row',
@@ -78,6 +59,25 @@ const AboutPage = () => (
             <h4 style={{ marginBottom: '0' }}>Ringgold, Summer 2016</h4>
             <p>
                 Over the summer between my junior and senior years of high school, I taught introductory-level programming to students ages 8 to 14 at a summer camp, using tools as simple as Scratch and as complex as the Unity Game Engine.
+            </p>
+        </div>
+    </div>
+        <div>
+            <h2>Education</h2>
+            <h3 style={{ marginBottom: '0' }}>Kennesaw State University</h3>
+            <h4 style={{ marginBottom: '0' }}>2019 - Present</h4>
+            <p>
+                I'll be transferring to Kennesaw State this fall semester to finish a Bachelor's program in Computer Science. I've already participated in Game Jam at Kennesaw (See "Project Way Back" on the projects page).
+            </p>
+            <h3 style={{ marginBottom: '0' }}>Dalton State College</h3>
+            <h4 style={{ marginBottom: '0' }}>2017 - 2019</h4>
+            <p>
+                I went to Dalton State for the first two years of college, taking my core classes as well as Programming I, Programming II, and Data Structures. 
+            </p>
+            <h3 style={{ marginBottom: '0' }}>Heritage High School</h3>
+            <h4 style={{ marginBottom: '0' }}>2013 - 2017</h4>
+            <p>
+                I left Heritage High School with a 3.68 GPA after making straight A's through the entire programming class pathway. At the end of the pathway, I was one of four students who passed the final test and got Microsoft's MTA Certificate in Web App Fundamentals. 
             </p>
         </div>
     </div>
