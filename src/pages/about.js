@@ -41,9 +41,9 @@ const AboutPage = () => (
         <div>
             <h2>Experience</h2>
             <h3 style={{ marginBottom: '0' }}>Mohawk Industries - Data Analyst Intern</h3>
-            <h4 style={{ marginBottom: '0' }}>Calhoun, February 2019 - Present</h4>
+            <h4 style={{ marginBottom: '0' }}>Calhoun, February 2019 - August 2019</h4>
             <p>
-                I started at Mohawk Industries in February 2019 as a Data Analyst Intern. I've used data analytics tools like Power BI and Tableau, and learned about practical database structure and usage. I've also helped other departments with various projects. I built a brand new progressive web app for Benefits using GatsbyJS, and am working on a chatbot for HR. 
+                I started at Mohawk Industries in February 2019 as a Data Analyst Intern. I used data analytics tools like Power BI and Tableau, and learned about practical database structure and usage. I also taught myself Python and SQL on the job.
             </p>
             <h3 style={{ marginBottom: '0' }}>Arby's - Sandwich Engineer</h3>
             <h4 style={{ marginBottom: '0' }}>Ringgold, July 2018 - February 2019</h4>
@@ -63,16 +63,25 @@ const AboutPage = () => (
         </div>
     </div>
         <div>
-            <h2>Education</h2>
-            <h3 style={{ marginBottom: '0' }}>Kennesaw State University</h3>
-            <h4 style={{ marginBottom: '0' }}>2019 - Present</h4>
+            <h2>Certifications</h2>
+            <h3 style={{ marginBottom: '0' }}>MTA: HTML5 Application Development Fundamentals</h3>
+            <h3 style={{ marginBottom: '0' }}>Microsoft</h3>
+            <h4 style={{ marginBottom: '0' }}>May 2016</h4>
             <p>
-                I'll be transferring to Kennesaw State this fall semester to finish a Bachelor's program in Computer Science. I've already participated in Game Jam at Kennesaw (See "Project Way Back" on the projects page).
+                I passed the necessary test and received Microsoft's Web Applications Development certification my junior year of high school, having learned the application life cycle, HTML5 UI design, CSS UI formatting, and JavaScript.
             </p>
-            <h3 style={{ marginBottom: '0' }}>Dalton State College</h3>
+        </div>
+        <div>
+            <h2>Education</h2>
+            <h3 style={{ marginBottom: '0' }}>Dalton State College - BS, Mathematics</h3>
+            <h4 style={{ marginBottom: '0' }}>2020 - Present</h4>
+            <p>
+                I'm continuing at Dalton State to pursue a Math degree. Better knowledge of pure mathematics will help me to accomplish what I want in life as it pertains to software security and optimization. 
+            </p>
+            <h3 style={{ marginBottom: '0' }}>Dalton State College - AS, Computer Science</h3>
             <h4 style={{ marginBottom: '0' }}>2017 - 2019</h4>
             <p>
-                I went to Dalton State for the first two years of college, taking my core classes as well as Programming I, Programming II, and Data Structures. 
+                I completeed the Computer Science program at Dalton State, and will be graduating Spring 2020.
             </p>
             <h3 style={{ marginBottom: '0' }}>Heritage High School</h3>
             <h4 style={{ marginBottom: '0' }}>2013 - 2017</h4>
