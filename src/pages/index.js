@@ -13,7 +13,7 @@ const IndexPage = () => (
       <div style={{ display: 'flex', flexDirection:'column', justifyContent: 'center', }}>
           <a href='https://github.com/wxlfe' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>github</a>
           <a href='https://linkedin.com/in/wxlfe' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>linkedin</a>
-          <a href='mailto:wxlfe@protonmail.com' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>email</a>
+          <a href='mailto:nate@wxlfe.dev' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>email</a>
       </div>
     </div>
   </Layout>
