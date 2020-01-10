@@ -19,9 +19,9 @@ const AboutPage = () => (
             flexWrap: 'wrap',
         }}>
             <h2 style={{ marginRight: '1em', }}>Skills:</h2>
-            <p style={{ marginRight: '1em', }}>JavaScript</p>
-            <p style={{ marginRight: '1em', }}>Java</p>
-            <p style={{ marginRight: '1em', }}>Android Development</p>
+            <p style={{ marginRight: '1em', }}>Linux</p>
+            <p style={{ marginRight: '1em', }}>Java & C#</p>
+            <p style={{ marginRight: '1em', }}>Data Security</p>
         </div>
         <div style={{
             display: 'flex',
@@ -29,7 +29,7 @@ const AboutPage = () => (
             justifyContent: 'space-evenly',
             flexWrap: 'wrap',
         }}>
-            <p style={{ marginRight: '1em', }}>Linux</p>
+            <p style={{ marginRight: '1em', }}>JavaScript</p>
             <p style={{ marginRight: '1em', }}>React JS</p>
             <p style={{ marginRight: '1em', }}>Python</p>
         </div>
