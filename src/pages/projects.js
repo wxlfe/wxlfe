@@ -33,7 +33,7 @@ const ProjectsPage = () => (
                 <h2 style={{ marginBottom: '0' }}>Custom Email</h2>
                 <h4 style={{ marginBottom: '0' }}>2019</h4>
                 <p>
-                    Toward the end of 2019, I wanted to learn more about DNS and DNS recors, as well as email mechanics and how they could be used more securely. I ended up creating a custom-domain email address, hosted by ProtonMail in Switzerland. I learned quite a bit about DNS records and how end-to-end encryption can still be used using a custom domain.  
+                    Toward the end of 2019, I wanted to learn more about DNS and DNS records, as well as email mechanics and how they could be used more securely. I ended up creating a custom-domain email address, hosted by ProtonMail in Switzerland. I learned quite a bit about DNS records and how end-to-end encryption can still be used using a custom domain.  
                 </p>
             </div>
         </div>
