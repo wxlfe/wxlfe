@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `wxlfe.dev`,
+        short_name: `wxlfe`,
         start_url: `/`,
         background_color: `black`,
         theme_color: `black`,
