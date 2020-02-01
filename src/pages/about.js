@@ -40,6 +40,11 @@ const AboutPage = () => (
     }}>
         <div>
             <h2>Experience</h2>
+            <h3 style={{ marginBottom: '0' }}>Dalton State College - Tutor</h3>
+            <h4 style={{ marginBottom: '0' }}>Dalton, January 2020 - Present</h4>
+            <p>
+                I'm the only tutor at Dalton State qualified to tutor in the programming courses the college offers, as well as other courses in mathematics and science.
+            </p>
             <h3 style={{ marginBottom: '0' }}>Mohawk Industries - Data Analyst Intern</h3>
             <h4 style={{ marginBottom: '0' }}>Calhoun, February 2019 - August 2019</h4>
             <p>
