@@ -21,7 +21,7 @@ const AboutPage = () => (
             <h2 style={{ marginRight: '1em', }}>Skills:</h2>
             <p style={{ marginRight: '1em', }}>Linux</p>
             <p style={{ marginRight: '1em', }}>Java & C#</p>
-            <p style={{ marginRight: '1em', }}>Data Security</p>
+            <p style={{ marginRight: '1em', }}>Data Analytics</p>
         </div>
         <div style={{
             display: 'flex',
