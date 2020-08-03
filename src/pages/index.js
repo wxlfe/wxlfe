@@ -8,7 +8,8 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div style={{ display: 'flex', flexDirection:'column', justifyContent: 'space-around', textAlign: 'center', maxWidth: '90vw' }}>
       <div style={{ display: 'flex', flexDirection:'column', justifyContent: 'center', }}>
-        <h1 style={{ fontWeight: '200', }}>Nate Wolfe</h1>
+        <h1 style={{ fontWeight: '200' }}>Nate Wolfe</h1>
+        <h3 style={{ fontweight: '200' }}>Student, Tutor, and Software Engineer</h3>
       </div>
       <div style={{ display: 'flex', flexDirection:'row', justifyContent: 'center', }}>
           <a href='https://github.com/wxlfe' style={{ textDecoration: 'none', color: 'white', margin: '.5em', fontSize: '4vw', }}>github</a>
