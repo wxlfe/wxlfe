@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `wxlfe`,
+    title: `Nate Wolfe`,
     description: `Nate Wolfe's Portfolio Site`,
-    author: `@wxlfe.dev`,
+    author: `@wxlfe_dev`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `wxlfe.dev`,
-        short_name: `wxlfe`,
+        name: `Nate Wolfe`,
+        short_name: `Nate Wolfe`,
         start_url: `/`,
         background_color: `black`,
         theme_color: `black`,
