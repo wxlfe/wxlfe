@@ -51,7 +51,7 @@ const AboutPage = () => (
                 I started at Mohawk Industries in February 2019 as a Data Analyst Intern. I used data analytics tools like Power BI and Tableau, and learned about practical database structure and usage. I also taught myself Python and SQL on the job.
             </p>
             <h3 style={{ marginBottom: '0' }}>Arby's - Sandwich Engineer</h3>
-            <h4 style={{ marginBottom: '0' }}>Ringgold, July 2018 - February 2019, January 2020 - Present</h4>
+            <h4 style={{ marginBottom: '0' }}>Ringgold, July 2018 - February 2019, January 2020 - July 2020</h4>
             <p>
                 I joined the original team at Arby's, helping to open a brand new store. I learned how to set high but achievable standards for myself and others with minimal established standards. 
             </p>
