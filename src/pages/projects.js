@@ -30,6 +30,13 @@ const ProjectsPage = () => (
                 </p>
             </div>
             <div>
+                <h2 style={{ marginBottom: '0' }}>Todo App</h2>
+                <h4 style={{ marginBottom: '0' }}>2020</h4>
+                <p>
+                    To teach myself the MERN stack, I followed along with DigitalOcean's tutorial and built a simple Todo application, and customized some of the styling. While this isn't my most original creation, I learned a great deal from it that I hope to put into practice in other projects. I decided against paying the money to keep a demo up and running, but the code is available on my GitHub page. 
+                </p>
+            </div>
+            <div>
                 <h2 style={{ marginBottom: '0' }}>Custom Email</h2>
                 <h4 style={{ marginBottom: '0' }}>2019</h4>
                 <p>
