@@ -75,6 +75,12 @@ const AboutPage = () => (
             <p>
                 I passed the necessary test and received Microsoft's Web Applications Development certification my junior year of high school, having learned the application life cycle, HTML5 UI design, CSS UI formatting, and JavaScript.
             </p>
+            <h3 style={{ marginBottom: '0' }}>Java, C#, SQL, HTML, CSS, and JavaScript</h3>
+            <h3 style={{ marginBottom: '0' }}>SoloLearn</h3>
+            <h4 style={{ marginBottom: '0' }}>November 2020</h4>
+            <p>
+                I have completed the SoloLearn courses and received the corresponding certificates for all of these languages. SoloLearn is largely a beginner's tool, so I decided to get these certificates simply to show that I have experience in these languages. 
+            </p>
         </div>
         <div>
             <h2>Education</h2>
