@@ -40,10 +40,12 @@ const AboutPage = () => (
     }}>
         <div>
             <h2>Experience</h2>
+            <h3 style={{ marginBottom: '0' }}>Food Lion - Grocer</h3>
+            <h4 style={{ marginBottom: '0' }}>Ringgold, December 2020 - Present</h4>
             <h3 style={{ marginBottom: '0' }}>Dalton State College - Tutor</h3>
-            <h4 style={{ marginBottom: '0' }}>Dalton, January 2020 - Present</h4>
+            <h4 style={{ marginBottom: '0' }}>Dalton, January 2020 - December 2020</h4>
             <p>
-                I'm the only tutor at Dalton State qualified to tutor in the programming courses the college offers, as well as other courses in mathematics and science.
+                I was the only tutor at Dalton State qualified to tutor in the programming courses the college offers, as well as other courses in mathematics and science.
             </p>
             <h3 style={{ marginBottom: '0' }}>Mohawk Industries - Data Analyst Intern</h3>
             <h4 style={{ marginBottom: '0' }}>Calhoun, February 2019 - August 2019</h4>
@@ -52,14 +54,8 @@ const AboutPage = () => (
             </p>
             <h3 style={{ marginBottom: '0' }}>Arby's - Sandwich Engineer</h3>
             <h4 style={{ marginBottom: '0' }}>Ringgold, July 2018 - February 2019, January 2020 - July 2020</h4>
-            <p>
-                I joined the original team at Arby's, helping to open a brand new store. I learned how to set high but achievable standards for myself and others with minimal established standards. 
-            </p>
             <h3 style={{ marginBottom: '0' }}>Zaxby's - Chicken Technician</h3>
             <h4 style={{ marginBottom: '0' }}>Ringgold, December 2016 - July 2018</h4>
-            <p>
-                I worked at Zaxby's for over a year, and that's where I learned the fundamentals of teambuilding and team communication. I also learned several ways to fry chicken. 
-            </p>
             <h3 style={{ marginBottom: '0' }}>Artsy Classes - Instructor</h3>
             <h4 style={{ marginBottom: '0' }}>Ringgold, Summer 2016</h4>
             <p>
