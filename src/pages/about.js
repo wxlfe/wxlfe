@@ -41,7 +41,7 @@ const AboutPage = () => (
         <div>
             <h2>Experience</h2>
             <h3 style={{ marginBottom: '0' }}>Food Lion - Grocer</h3>
-            <h4 style={{ marginBottom: '0' }}>Ringgold, December 2020 - Present</h4>
+            <h4>Ringgold, December 2020 - Present</h4>
             <h3 style={{ marginBottom: '0' }}>Dalton State College - Tutor</h3>
             <h4 style={{ marginBottom: '0' }}>Dalton, January 2020 - December 2020</h4>
             <p>
@@ -53,9 +53,9 @@ const AboutPage = () => (
                 I started at Mohawk Industries in February 2019 as a Data Analyst Intern. I used data analytics tools like Power BI and Tableau, and learned about practical database structure and usage. I also taught myself Python and SQL on the job.
             </p>
             <h3 style={{ marginBottom: '0' }}>Arby's - Sandwich Engineer</h3>
-            <h4 style={{ marginBottom: '0' }}>Ringgold, July 2018 - February 2019, January 2020 - July 2020</h4>
+            <h4>Ringgold, July 2018 - February 2019, January 2020 - July 2020</h4>
             <h3 style={{ marginBottom: '0' }}>Zaxby's - Chicken Technician</h3>
-            <h4 style={{ marginBottom: '0' }}>Ringgold, December 2016 - July 2018</h4>
+            <h4>Ringgold, December 2016 - July 2018</h4>
             <h3 style={{ marginBottom: '0' }}>Artsy Classes - Instructor</h3>
             <h4 style={{ marginBottom: '0' }}>Ringgold, Summer 2016</h4>
             <p>
