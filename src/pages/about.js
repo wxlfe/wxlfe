@@ -40,8 +40,13 @@ const AboutPage = () => (
     }}>
         <div>
             <h2>Experience</h2>
+            <h3 style={{ marginBottom: '0' }}>Mohawk Industries - Associate Developer</h3>
+            <h4 style={{ marginBottom: '0' }}>Calhoun, February 2021 - Present</h4>
+            <p>
+                I'm currently an Associate Developer at Mohawk Industries, working on customer-facing web apps for the largest flooring manufacturer in the world, a Fortune 500 company.
+            </p>
             <h3 style={{ marginBottom: '0' }}>Food Lion - Grocer</h3>
-            <h4>Ringgold, December 2020 - Present</h4>
+            <h4>Ringgold, December 2020 - February 2021</h4>
             <h3 style={{ marginBottom: '0' }}>Dalton State College - Tutor</h3>
             <h4 style={{ marginBottom: '0' }}>Dalton, January 2020 - December 2020</h4>
             <p>
