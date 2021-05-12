@@ -1,0 +1,36 @@
+:root {
+    --color-background: #ffffff;
+    --color-border: #cacfd5;
+    --color-text-default: #0b1016;
+    --color-base: #f4f5f6;
+    --color-accent: black; 
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-background: #000000;
+        --color-border: #697278;
+        --color-text-default: #f5efea;
+        --color-base: #293238;
+        --color-accent: gold; 
+    }
+}
+
+nav {
+    background: var(--color-background);
+    color: var(--color-text-default);
+}
+
+.nav-link {
+    text-decoration: none;
+    color: var(--color-accent) !important;
+}
+
+#expand-icon {
+    color: var(--color-accent);
+}
+
+.navbar-toggler {
+    outline: none;
+    border: none;
+}
